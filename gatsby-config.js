@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Oscar Pagani Blog",
     desc: "A new blog"
-  },
+  },  
   pathPrefix: "/opagani-blog",
   plugins: [
     "gatsby-plugin-react-helmet",
