@@ -87,7 +87,7 @@ export default class Header extends Component {
 
     return (
       <HeaderWrapper
-        isHome={location.pathname === '/'}
+        isHome={this.props.location.pathname === '/'}
         ref={(wrapper) => this.wrapper = ReactDOM.findDOMNode(wrapper)}
       >
         <HeaderContainer>
