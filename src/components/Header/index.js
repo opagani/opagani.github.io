@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
+import Img from 'gatsby-image'
 
 import logo from '../../images/logo.svg'
 
@@ -9,6 +10,9 @@ console.log(logo)
 const HeaderWrapper = styled.div`
   background: #524763;
   margin-bottom: 1.45rem;
+  overflow: hidden;
+  position: relative;
+  height: 70vh;
   h1 {
     img {
       height: 80px;
@@ -20,6 +24,8 @@ const HeaderContainer = styled.div`
   margin: 0 auto;
   max-width: 960px;
   padding: 1.45rem 1.0875rem;
+  position: relative;
+  z-index: 2;
 `;
 
 const Header = ({data}) => (
@@ -36,8 +42,6 @@ const Header = ({data}) => (
           <img src={logo} alt='logo' />
         </Link>
       </h1>
-      <p>{data.site.siteMetadata.title}</p>
-      <p>{data.site.siteMetadata.desc}</p>
       <nav>
         <ul>
           <li>
@@ -48,7 +52,16 @@ const Header = ({data}) => (
           </li>
         </ul>
       </nav>
-    </HeaderContainer> 
+    </HeaderContainer>
+    <Img style={{
+        position: 'absolute',
+        left: 0,
+        top: 0,
+        width: '100%',
+        height: '100%'
+      }}
+      sizes={data.background.sizes} 
+    />
   </HeaderWrapper>
 )
 
