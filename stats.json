@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-5da235420f64c9fbede2.js",
+      "component---src-pages-index-js-5da235420f64c9fbede2.js.map"
+    ],
+    "path---posts-our-second-post": [
+      "path---posts-our-second-post-f989447d3fc82cc5a772.js",
+      "path---posts-our-second-post-f989447d3fc82cc5a772.js.map"
+    ],
+    "path---": [
+      "path----c08d8fa0f5a76d7022ff.js",
+      "path----c08d8fa0f5a76d7022ff.js.map"
+    ],
+    "component---src-posts-post-page-js": [
+      "component---src-posts-post-page-js-e4472cb47a8e7446906e.js",
+      "component---src-posts-post-page-js-e4472cb47a8e7446906e.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-8bc4fedfdb837927ba19.js",
+      "component---src-layouts-index-js-8bc4fedfdb837927ba19.js.map"
+    ],
+    "path---index": [
+      "path---index-16230c348706fbd0d8a0.js",
+      "path---index-16230c348706fbd0d8a0.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-37e7ec241aad23eaba66.js",
+      "commons-37e7ec241aad23eaba66.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-7e0f8e9b7fa6bf06b717.js",
+      "build-js-styles.css",
+      "app-7e0f8e9b7fa6bf06b717.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-5665d20fc71f3b493f4d.js",
+      "component---src-pages-about-js-5665d20fc71f3b493f4d.js.map"
+    ],
+    "path---posts-post": [
+      "path---posts-post-cec9a61590ae82ad3f0a.js",
+      "path---posts-post-cec9a61590ae82ad3f0a.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

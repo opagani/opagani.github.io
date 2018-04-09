@@ -1,0 +1,2 @@
+webpackJsonp([54933639804265],{330:function(a,n){a.exports={data:{markdownRemark:{html:"<p>Oscar Pagani is a Senior Sofware Engineer at Zillow in San Francisco\nOscar Pagani is great basketball player jaja dos</p>\n<!-- end -->\n<ul>\n<li>This</li>\n<li>Is</li>\n<li>A</li>\n</ul>\n<p>Oscar Pagani is a basketball player international</p>\n<ul>\n<li>New</li>\n<li>Post</li>\n</ul>",frontmatter:{title:"Our Second Blog",date:"April 09 2018"}}},pathContext:{slug:"/posts/our-second-post/"}}}});
+//# sourceMappingURL=path---posts-our-second-post-f989447d3fc82cc5a772.js.map
