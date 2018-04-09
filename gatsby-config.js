@@ -2,8 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Oscar Pagani Blog",
     desc: "A new blog"
-  },
-  pathPrefix: "/opagani-blog",
+  },  
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-styled-components",
@@ -31,4 +30,5 @@ module.exports = {
     "gatsby-plugin-sharp"
   ]
 };
+// pathPrefix: "/opagani-blog",
 
